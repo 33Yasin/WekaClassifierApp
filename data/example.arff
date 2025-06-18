@@ -1,0 +1,14 @@
+@relation example_dataset
+
+@attribute period_type {Daily,Monthly,Annual}
+@attribute month {January,February,March,April,May,June,July,August,September,October,November,December}
+@attribute age numeric
+@attribute class {A,B,C}
+
+@data
+Daily,January,25,A
+Monthly,February,30,B
+Annual,March,35,C
+Daily,April,28,A
+Monthly,May,32,B
+Annual,June,40,C 

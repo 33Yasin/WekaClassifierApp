@@ -1,0 +1,11 @@
+com\weka\classification\ClassificationEngine.class
+com\weka\classification\DataPreprocessor$DatasetType.class
+com\weka\classification\ClassificationEngine$1.class
+com\weka\classification\WekaClassificationGUI$2.class
+com\weka\classification\ClassificationEngine$AlgorithmType.class
+com\weka\classification\WekaClassificationGUI.class
+com\weka\classification\DataPreprocessor$1.class
+com\weka\classification\DataPreprocessor.class
+com\weka\classification\WekaClassificationGUI$3.class
+com\weka\classification\InstanceCreator.class
+com\weka\classification\WekaClassificationGUI$1.class
