@@ -1,5 +1,4 @@
 ﻿# WekaClassifierApp
- ![Uploading WekaClassifierApp.gif…]()
 
 
 Bu proje, Java ve WEKA kütüphanesi kullanılarak geliştirilmiş bir makine öğrenimi sınıflandırma uygulamasıdır. Kullanıcı dostu bir arayüz ile farklı veri kümeleri üzerinde çeşitli sınıflandırma algoritmalarını test etmenizi ve yeni girdilerle tahmin yapmanızı sağlar.
